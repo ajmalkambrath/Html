@@ -1,4 +1,15 @@
 # Html
+
+### Doctype
+
+Browser use doctype to determine hoe to render page.
+
+### HTML 5 features
+
+
+### HTML 5  API
+
+
 ### HTML5 new Form Elements
 1. datalist
 ```

@@ -98,5 +98,13 @@ step
 
 
 
+https://www.dbs.ie/course/postgraduate/master-of-science-(msc)-digital-marketing
+
+https://www.tcd.ie/business/msc/digital-marketing-strategy/
+
+http://www.dit.ie/studyatdit/postgraduate/taughtprogrammes/allcourses/dt9337ftdigitalmarketingmsc.html#
+
+https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/business-digital-marketing-design/master-of-science-dig-mrk.htm
+
 
 
